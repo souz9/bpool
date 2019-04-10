@@ -1,2 +1,3 @@
 # bpool
-Pool of byte buffers
+
+Pool of byte buffers. Based on sync.Pool.
